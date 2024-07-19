@@ -8,22 +8,22 @@ const axios = require('axios');
 // Ori : @callmevinz
 
 //=== Edit Disini 🔥
-global.namabot = "𝗠𝗔𝗡𝗨 𝗠𝗗 💙"
+global.namabot = "🤖𝐌𝐚𝐧𝐮𝐥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭👨‍💻"
 global.namaowner = "𝐌𝐚𝐧𝐮𝐥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥"
-global.packname = "Sticker by 𝙒𝙖𝙣"
-global.creator = "𝗠𝗔𝗡𝗨𝗟 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡"
-global.author = "𝙒𝙖𝙣\n\nBot WhatsApp"
-global.wm = "𝗠𝗔𝗡𝗨-𝙈𝘿 💙"
+global.packname = "Sticker by 𝗠𝗮𝗻𝘂"
+global.creator = "⚖️©𝐌𝐫 𝐌𝐚𝐧𝐮𝐥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥👨‍💻"
+global.author = "𝗠𝗮𝗻𝘂\n\nBot WhatsApp"
+global.wm = "©𝐌𝐫 𝐌𝐚𝐧𝐮𝐥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥"
 global.syt = "https://www.youtube.com/"
-global.sgc = "https://chat.whatsapp.com/D5bzpQmYdQmL2ixDIJr4JY"
-global.idgc = "120363303523598762@newsletter"
-global.email = "OwnerKuu@gmail.com"
+global.sgc = "https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
+global.idgc = "120363200175936047@g.us"
+global.email = "manulwijethilaka@gmail.com"
 global.sig = "https://Instagram.com/"
-global.myweb = "https://chat.whatsapp.com/D5bzpQmYdQmL2ixDIJr4JY"
+global.myweb = "https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R"
 global.footer_text = "© 𝐌𝐚𝐧𝐮 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕"
 global.owner = ['94742274855']
 global.gifin = "https://files.catbox.moe/24p794.mp4"
-global.thumb = "https://telegra.ph/file/e20877bca4eae038cb001.jpg"
+global.thumb = "https://telegra.ph/file/33e5f1bfd36ea02f8b062.jpg"
 global.thumb2 = "https://telegra.ph/file/3dc49bb5cc5d1e2fe53ed.png"
 global.mark = "https://files.catbox.moe/24p794.mp4"
 global.themeemoji = '🌐'
